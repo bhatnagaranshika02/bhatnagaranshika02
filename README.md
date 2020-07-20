@@ -21,5 +21,5 @@ I have worked on some projects during my academics like:
 ## Competitive Programming
 I usually code on Hackerrank, Hackerearth platform. I have done competitive programming on GeeksForGeeks and Codechef as well
 I have been practising competitive programming since a long time and nowadays improving my data structures and algorithms concepts 
-with deliberate practise. I have worked with C, C++, Java, Python, R, JavaScript languages and also have interest to explore
+with deliberate practice. I have worked with C, C++, Java, Python, R, JavaScript languages and also have interest to explore
 Julia and Go languages 
