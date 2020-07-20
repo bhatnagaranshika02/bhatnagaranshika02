@@ -5,7 +5,7 @@ My name is **Anshika Bhatnagar**
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Data Science and Software Development Projects
 - 💬 Ask me about Data Science, Machine Learning, Data Structures, Python, Competitive Programming
-- 📫 How to reach me: You can contact me on my Linkedin Profile 
+- 📫 How to reach me: You can contact me on my Linkedin Profile https://linkedin.com/in/anshikabhatnagar
 - ⚡ Fun fact: I also love to write and listen poetries
 
 ## Projects
