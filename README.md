@@ -1,5 +1,10 @@
-### Hi there 👋
-My name is **Anshika Bhatnagar**
+## Hi there 👋, I am Anshika
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshikabhatnagar/)
+
+My name is Anshika Bhatnagar and I am pursuing CSE Undergraduate from Mahakal Institute Of Technology, Ujjain and currently in 4th year. 
+I am proficient in Python Programming language. I have worked with C, C++, Java, R, JavaScript languages and also have interest to explore Julia and Go languages. 
+I have good knowledge of data structures, object oriented programming and database management system along with software engineering concepts. 
 
 - 🔭 I’m currently working on my Portfolio Website and Competitive Programming Skills
 - 🌱 I’m currently learning Deep Learning
@@ -19,7 +24,8 @@ I have worked on some projects during my academics like:
 - Portfolio Website(ongoing)
 
 ## Competitive Programming
-I usually code on Hackerrank, Hackerearth platform. I have done competitive programming on GeeksForGeeks and Codechef as well
-I have been practising competitive programming since a long time and nowadays improving my data structures and algorithms concepts 
-with deliberate practice. I have worked with C, C++, Java, Python, R, JavaScript languages and also have interest to explore
-Julia and Go languages 
+- I usually code on [Hackerrank](https://www.hackerrank.com/bhatnagaranshik1?hr_r=1), [Hackerearth](https://www.hackerearth.com/@anshika111) and [LeetCode](https://leetcode.com/anshika02/) platform. 
+- I have done some competitive programming on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/anshikabhatnagar/practice/) and [Codechef](https://www.codechef.com/users/anshika02) as well
+- Nowadays I am improving my data structures and algorithms practical knowledge with deliberate practice. 
+
+![AnshikaBhatnagar github stats](https://github-readme-stats.vercel.app/api?username=bhatnagaranshika02&show_icons=true&theme=tokyonight)
