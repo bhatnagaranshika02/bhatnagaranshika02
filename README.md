@@ -26,7 +26,7 @@ I have worked on some projects during my academics like:
 - Portfolio Website(ongoing)
 
 ## Competitive Programming
-- Nowadays, I am doing competitive programming on [Binary Search](https://binarysearch.com/@/Anshika02)
+- Nowadays, I am doing competitive programming on [Binary Search](https://binarysearch.com/@/Anshi02)
 - I usually code on [Hackerrank](https://www.hackerrank.com/bhatnagaranshik1?hr_r=1), [Hackerearth](https://www.hackerearth.com/@anshika111) and [LeetCode](https://leetcode.com/anshika02/) platform. 
 - I have done some competitive programming on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/anshikabhatnagar/practice/) and [Codechef](https://www.codechef.com/users/anshika02) as well
 - Nowadays I am improving my data structures and algorithms practical knowledge with deliberate practice. 
