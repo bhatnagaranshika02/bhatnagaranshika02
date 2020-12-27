@@ -7,7 +7,7 @@ I am proficient in Python Programming language. I have worked with C, C++, Java,
 I have good knowledge of data structures, object oriented programming and database management system along with software engineering concepts. 
 
 - 🔭 I’m currently working on my Portfolio Website and Competitive Programming Skills
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning React.js Framework
 - 👯 I’m looking to collaborate on Data Science and Software Development Projects
 - 💬 Ask me about Data Science, Machine Learning, Data Structures, Python, Competitive Programming
 - 📫 How to reach me: You can contact me on my Linkedin Profile https://linkedin.com/in/anshikabhatnagar
@@ -21,9 +21,12 @@ I have worked on some projects during my academics like:
 - News Reader Application
 - Text Translator Application
 - Blogify Blog Writing Application 
+- Todo List Web Application
+- Quiz Taking Application
 - Portfolio Website(ongoing)
 
 ## Competitive Programming
+- Nowadays, I am doing competitive programming on [Binary Search](https://binarysearch.com/@/Anshika02)
 - I usually code on [Hackerrank](https://www.hackerrank.com/bhatnagaranshik1?hr_r=1), [Hackerearth](https://www.hackerearth.com/@anshika111) and [LeetCode](https://leetcode.com/anshika02/) platform. 
 - I have done some competitive programming on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/anshikabhatnagar/practice/) and [Codechef](https://www.codechef.com/users/anshika02) as well
 - Nowadays I am improving my data structures and algorithms practical knowledge with deliberate practice. 
